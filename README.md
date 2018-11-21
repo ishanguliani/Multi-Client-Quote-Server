@@ -1,5 +1,5 @@
 # Multiple Client Quote Server  using UDP
-The Server of this program fires up and waits for a client to connect. As soon as a client connection is established, the server returns a Quote back to the client from its remote location. If no quotes are available, then the server returns the current Data and Time stamp.
+The Server side of this program fires up and waits for a client to connect. As soon as a client connection is established, the server returns a Quote back to the client from its remote location. If no quotes are available, then the server returns the current Data and Time stamp.
 
 Note: Compile all the files.
 
