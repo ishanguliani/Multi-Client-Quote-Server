@@ -1,4 +1,3 @@
-package week12.QuoteServer_12_2;
 
 /**
  * qClientUdp.java
