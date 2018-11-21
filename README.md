@@ -1,4 +1,4 @@
-# SimpleEchoServer
+# Echo Server using UDP
 A simple multi-client JAVA client-server architecture implemented using UDP. 
 
 Note: Compile all the files.
