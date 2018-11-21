@@ -8,10 +8,6 @@ package week12.QuoteServer_12_2;
  *
  * @revision:
  *      1
- *
- * @author:
- *      ishanguliani aka ig5859
- *      saurabhgaikwad
  */
 
 import java.io.IOException;
